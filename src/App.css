@@ -106,7 +106,6 @@ form button:hover {
     opacity: 0.5;
 }
 
-/*CUSTOM SELECTOR */
 select {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -118,7 +117,6 @@ select {
     background-image: none;
 }
 
-/* Custom Select */
 .select {
     margin: 1rem;
     position: relative;
@@ -132,7 +130,6 @@ select {
     width: 12rem;
 }
 
-/* Arrow */
 .select::after {
     content: "\25BC";
     position: absolute;
