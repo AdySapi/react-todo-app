@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    background-image: linear-gradient(to bottom, #02080d, #00353a, #096147, #6b8936, #dea138);
     color: white;
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
